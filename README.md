@@ -20,7 +20,10 @@ THEN the saved events persist
 
 # Features
 
-Visual Studio Code
-Bootstrap
-J Query
-Moment.js
+- Visual Studio Code
+
+- Bootstrap
+
+- J Query
+
+- Moment.js
