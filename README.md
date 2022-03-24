@@ -1,4 +1,10 @@
 # Work-Day-Scheduler
+This project is to create a workday scheduler using jquery and moment APIs that saves data to the local storage and features dynamically updated HTML and CSS.
+
+
+
+
+
 
 # Acceptance Criteria
 
